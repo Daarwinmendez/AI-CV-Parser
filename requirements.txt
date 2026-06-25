@@ -1,0 +1,12 @@
+PyMuPDF
+langdetect
+langchain
+langchain-ollama
+langchain-huggingface
+bitsandbytes
+accelerate 
+transformers
+langchain
+langchain-core 
+langchain-community 
+langchain-ollama pydantic
